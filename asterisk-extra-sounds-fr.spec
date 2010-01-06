@@ -3,7 +3,7 @@
 
 Summary:	France sound files for the Asterisk PBX and telephony application and toolkit
 Name:		asterisk-extra-sounds-fr
-Version:	1.4.9
+Version:	1.4.10
 Release:	%mkrel 1
 License:	Public Domain
 Group:		System/Servers
@@ -19,7 +19,7 @@ Source6:	http://ftp.digium.com/pub/telephony/sounds/%{name}-sln16-%{version}.tar
 Source7:	http://ftp.digium.com/pub/telephony/sounds/%{name}-ulaw-%{version}.tar.gz
 Source8:	http://ftp.digium.com/pub/telephony/sounds/%{name}-wav-%{version}.tar.gz
 Requires:	asterisk
-Provides:	asterisk-extra-sounds
+Provides:	asterisk-extra-sounds = %{version}
 BuildArch:	noarch
 BuildRoot:	%{_tmppath}/%{name}-%{version}-%{release}-buildroot
 
