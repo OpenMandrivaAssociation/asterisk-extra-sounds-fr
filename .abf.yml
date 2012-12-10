@@ -1,10 +1,10 @@
 sources:
-  "asterisk-extra-sounds-fr-alaw-1.4.11.tar.gz:"	0f03bbb37ae89445a0db13e7f157a312ba6f1514
-  "asterisk-extra-sounds-fr-g722-1.4.11.tar.gz:"	3568cd1b926c420bfd33b909513f70dfd146450a
-  "asterisk-extra-sounds-fr-g729-1.4.11.tar.gz:"	5e1b56fe907d8ea49c3b6d852a7cb52f5ee456b4
-  "asterisk-extra-sounds-fr-gsm-1.4.11.tar.gz:"	445bb0689d4f5c758ac53b852c64031b860b8b2a
-  "asterisk-extra-sounds-fr-siren14-1.4.11.tar.gz:"	f1d1d5af1fd82b57bab9e9b384a821b28acb2518
-  "asterisk-extra-sounds-fr-siren7-1.4.11.tar.gz:"	9927bb2378854574e19b55075058ac968c6f9fca
-  "asterisk-extra-sounds-fr-sln16-1.4.11.tar.gz:"	a6dc0b0dce11e7be2781fc81eff535d7c053f2c7
-  "asterisk-extra-sounds-fr-ulaw-1.4.11.tar.gz:"	b252e1da167c6451594648dc002a79e668645a2c
-  "asterisk-extra-sounds-fr-wav-1.4.11.tar.gz:"	c53f9610121dc2c2cc44f46d36972569faf1f750
+  "asterisk-extra-sounds-fr-alaw-1.4.11.tar.gz": 0f03bbb37ae89445a0db13e7f157a312ba6f1514
+  "asterisk-extra-sounds-fr-g722-1.4.11.tar.gz": 3568cd1b926c420bfd33b909513f70dfd146450a
+  "asterisk-extra-sounds-fr-g729-1.4.11.tar.gz": 5e1b56fe907d8ea49c3b6d852a7cb52f5ee456b4
+  "asterisk-extra-sounds-fr-gsm-1.4.11.tar.gz": 445bb0689d4f5c758ac53b852c64031b860b8b2a
+  "asterisk-extra-sounds-fr-siren14-1.4.11.tar.gz": f1d1d5af1fd82b57bab9e9b384a821b28acb2518
+  "asterisk-extra-sounds-fr-siren7-1.4.11.tar.gz": 9927bb2378854574e19b55075058ac968c6f9fca
+  "asterisk-extra-sounds-fr-sln16-1.4.11.tar.gz": a6dc0b0dce11e7be2781fc81eff535d7c053f2c7
+  "asterisk-extra-sounds-fr-ulaw-1.4.11.tar.gz": b252e1da167c6451594648dc002a79e668645a2c
+  "asterisk-extra-sounds-fr-wav-1.4.11.tar.gz": c53f9610121dc2c2cc44f46d36972569faf1f750

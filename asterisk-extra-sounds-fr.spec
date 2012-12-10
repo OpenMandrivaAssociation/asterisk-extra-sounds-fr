@@ -74,3 +74,19 @@ rm -rf %{buildroot}
 %files -f %{name}.filelist
 %defattr(-,root, root)
 %doc *-asterisk-extra-*-%{version}
+
+
+%changelog
+* Sat Jul 10 2010 Lonyai Gergely <aleph@mandriva.org> 1.4.11-1mdv2011.0
++ Revision: 550232
+- 1.4.11
+
+* Wed Jan 06 2010 Lonyai Gergely <aleph@mandriva.org> 1.4.10-1mdv2010.1
++ Revision: 486661
+- 1.4.10
+
+* Thu Aug 13 2009 Lonyai Gergely <aleph@mandriva.org> 1.4.9-1mdv2010.0
++ Revision: 416112
+- initial release: 1.4.9
+- create asterisk-extra-sounds-fr
+
