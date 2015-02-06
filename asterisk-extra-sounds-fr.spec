@@ -4,7 +4,7 @@
 Summary:	France sound files for the Asterisk PBX and telephony application and toolkit
 Name:		asterisk-extra-sounds-fr
 Version:	1.4.11
-Release:	%mkrel 1
+Release:	2
 License:	Public Domain
 Group:		System/Servers
 URL:		http://www.asterisk.org/
